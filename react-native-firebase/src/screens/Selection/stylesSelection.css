@@ -1,0 +1,21 @@
+.button-group {
+    background-color: #ffffff;
+    padding-left: 2em;
+    padding-right: 2em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;;
+}
+
+button {
+    margin: 4px;
+    border: none;
+    background: #e5e7ee;
+    color: grey;
+    border-radius: 8px;
+}
+
+button:active{
+    background-color:yellow;
+}
